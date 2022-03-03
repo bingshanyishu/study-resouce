@@ -1,0 +1,5 @@
+作业文档
+利用作业数据，将Segment、Product作为分组依据，分组求和，求得France2014年各分组的总利润（新组名“Total Profit”，新表名“France2014”）
+注释：
+Profit 利润
+一步计算完成，截图时把公式截全
